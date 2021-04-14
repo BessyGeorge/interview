@@ -56,5 +56,5 @@ def write_file(filename, arg1, arg2, arg3,  *argv):
     except e:
         return e
 
-url = "https://reqres.in/api/users?page=2"
-list_users(url)
+#url = "https://reqres.in/api/users?page=2"
+#list_users(url)
